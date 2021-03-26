@@ -1,6 +1,7 @@
 # TechLife
  
 ##Team
+  Team | Emails
 -------|------------
 Radoslav Ivanov | RGIvanov19@codingburgas.bg
 Veselin Stoqnov | VNStoyanov19@codingburgas.bg 
