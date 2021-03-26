@@ -1,10 +1,11 @@
 # TechLife
  
 ##Team
-Radoslav Ivanov
-Veselin Stoqnov
-Alexandar Bozhikov 
-Mario Berberov
+-------|------------
+Radoslav Ivanov | RGIvanov19@codingburgas.bg
+Veselin Stoqnov | VNStoyanov19@codingburgas.bg 
+Alexandar Bozhikov | AABozhikov19@codingburgas.bg
+Mario Berberov | MCBerberov19@codingburgas.bg
  
 ## Introduction
  
