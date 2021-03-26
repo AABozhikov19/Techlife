@@ -1,6 +1,6 @@
 # TechLife
  
-#Team
+Team
  Team | Roles | Emails
 -------|-------|----------
 Radoslav Ivanov | Leader | RGIvanov19@codingburgas.bg
