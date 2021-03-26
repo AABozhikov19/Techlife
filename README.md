@@ -20,3 +20,4 @@ Mario Berberov | Data machine learning | MCBerberov19@codingburgas.bg
 ## Installation
  
 > The application will be available on both desktop and mobile devices
+> ![Screenshot 2021-03-26 220947](https://user-images.githubusercontent.com/63719298/112691517-1c825f00-8e86-11eb-83ee-f21c37268bb9.png)
