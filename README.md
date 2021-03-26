@@ -1,7 +1,7 @@
 # TechLife
  
->Team
-  Team | Roles | Emails
+#Team
+  ##Team | Roles | Emails
 -------|-------|----------
 Radoslav Ivanov | Leader | RGIvanov19@codingburgas.bg
 Veselin Stoqnov | Deap learning desgner | VNStoyanov19@codingburgas.bg 
