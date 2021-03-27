@@ -4,7 +4,7 @@ Team
  Team | Roles | Emails
 -------|-------|----------
 Radoslav Ivanov | Leader | RGIvanov19@codingburgas.bg
-Veselin Stoqnov | Deap learning desgner | VNStoyanov19@codingburgas.bg 
+Veselin Stoqnov | Deep learning desgner | VNStoyanov19@codingburgas.bg 
 Alexandar Bozhikov | Application designer | AABozhikov19@codingburgas.bg
 Mario Berberov | Data machine learning | MCBerberov19@codingburgas.bg
  
